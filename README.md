@@ -45,7 +45,7 @@ might return
 
  ```
  {
-  "statusCode": 500,
+  "statusCode": 200,
   "body": {
       "cname": "login.authr.io",
       "backend": "justinhinerman.auth0.com",
